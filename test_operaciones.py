@@ -1,4 +1,4 @@
-from operaciones import sumar
+from operaciones import restar
 
-def test_sumar():
-    assert sumar(3,2) == 5
+def test_restar():
+    assert restar(3,2) == 1
